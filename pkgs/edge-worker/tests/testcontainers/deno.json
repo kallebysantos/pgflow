@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "test": "deno run --allow-all --env-file=.env index.ts "
+  }
+  "imports": {}
+}
